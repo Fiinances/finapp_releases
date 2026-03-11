@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/edfa239f-a546-409e-922b-1583039ab2b3" alt="Finapp Screenshot" width="800"/>
+<img src="https://github.com/user-attachments/assets/edfa239f-a546-409e-922b-1583039ab2b3" alt="Finapp — tela inicial mostrando o slogan e os cards de funcionalidades" width="860"/>
 
 # 💰 Finapp — Sua Carteira Inteligente
 
-### Controle financeiro completo na palma da sua mão.  
+### Controle financeiro completo na palma da sua mão.
 ### Tudo salvo localmente. Sem nuvem. Sem risco. Sem complicação.
 
 <br/>
@@ -12,6 +12,11 @@
 [![Download](https://img.shields.io/badge/⬇️%20Baixar%20agora-Finapp-black?style=for-the-badge)](https://github.com/Fiinances/finapp_releases/releases/latest)
 ![Privacidade](https://img.shields.io/badge/🔒%20100%25-Local%20%26%20Privado-green?style=for-the-badge)
 ![Plataforma](https://img.shields.io/badge/🖥️%20Windows%20%7C%20macOS%20%7C%20Linux-blue?style=for-the-badge)
+
+<br/>
+
+| OFX e CSV suportados | Contas e cartões ilimitados | **0** dados na nuvem |
+|:---:|:---:|:---:|
 
 </div>
 
@@ -25,7 +30,13 @@ O Finapp é um aplicativo desktop de finanças pessoais desenvolvido para quem q
 
 ---
 
-## ✨ Funcionalidades
+## ✨ Tudo que você precisa
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a49b7ba2-29a6-4fb4-994e-c07d98d75591" alt="Grade de funcionalidades do Finapp: Dashboard Inteligente, Contas Bancárias, Cartões de Crédito, Importação OFX & CSV, Análise por Categoria, 100% Local & Privado" width="860"/>
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -74,6 +85,54 @@ Identificação automática de assinaturas recorrentes nas suas transações. Sa
 
 ---
 
+## 📊 Dashboard Inteligente — veja tudo de uma vez
+
+<table>
+<tr>
+<td valign="top" width="55%">
+<img src="https://github.com/user-attachments/assets/4893bdf8-4cdf-40ff-b25c-4ab464360e52" alt="Dashboard do Finapp mostrando gráfico Receitas vs. Despesas dos últimos 12 meses, distribuição de despesas por categoria e faturas do cartão de crédito" width="100%"/>
+</td>
+<td valign="middle" width="45%">
+
+**Receitas vs. Despesas**  
+Comparativo mensal com saldo líquido — últimos 12 meses. Visualize receitas, despesas, investimentos e saldo líquido num único gráfico.
+
+**Despesas por categoria**  
+Gráfico de distribuição dos gastos no mês selecionado para identificar onde o dinheiro vai de verdade.
+
+**Faturas do cartão de crédito**  
+Gastos mensais por cartão — últimos 6 meses — para nunca perder o controle do limite.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏦 Contas Bancárias & Cartões de Crédito
+
+<table>
+<tr>
+<td valign="middle" width="45%">
+
+**Contas Bancárias**  
+Visualize saldo atualizado de cada conta. Adicione quantas contas quiser — sem limite.
+
+**Cartões de Crédito**  
+Veja o limite disponível, a data de fechamento e a data de vencimento de cada cartão em um único painel. Nunca mais pague juros por esquecimento.
+
+**Vinculação conta ↔ cartão**  
+Cada cartão fica vinculado à conta bancária correspondente para um controle ainda mais preciso.
+
+</td>
+<td valign="top" width="55%">
+<img src="https://github.com/user-attachments/assets/6d1da89d-f705-48be-bcc4-3c9f1e0fecaf" alt="Tela Bancos do Finapp mostrando Conta Principal Nubank com R$ 60.000 e Cartão de Crédito Violeta com R$ 8.000, fechamento dia 19 e vencimento dia 26" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
 ## 🔒 100% Local & Privado
 
 <div align="center">
@@ -94,30 +153,6 @@ Identificação automática de assinaturas recorrentes nas suas transações. Sa
 </div>
 
 Diferente de outros aplicativos financeiros que enviam seus dados para servidores terceiros, o **Finapp armazena tudo localmente** no seu dispositivo. Sua vida financeira é **sua** e só sua.
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/4893bdf8-4cdf-40ff-b25c-4ab464360e52" alt="Dashboard" width="700"/>
-
-*Dashboard com visão completa de receitas, despesas e análise por categoria*
-
-<br/><br/>
-
-<img src="https://github.com/user-attachments/assets/a49b7ba2-29a6-4fb4-994e-c07d98d75591" alt="Funcionalidades" width="700"/>
-
-*Todas as funcionalidades que você precisa em um só lugar*
-
-<br/><br/>
-
-<img src="https://github.com/user-attachments/assets/6d1da89d-f705-48be-bcc4-3c9f1e0fecaf" alt="Contas e Cartões" width="700"/>
-
-*Gerencie contas bancárias e cartões de crédito com facilidade*
-
-</div>
 
 ---
 
